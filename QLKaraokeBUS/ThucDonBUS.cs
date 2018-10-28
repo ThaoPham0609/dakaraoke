@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace QLKaraokeBUS
 {
-   public class LoaiPhongDTO
+    class ThucDonBUS
     {
-
     }
 }

@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace QLKaraokeBUS
+namespace QLKaraokeDAO
 {
-   public class LoaiPhongDTO
+   public class ThucDonDAO
     {
-
     }
 }
