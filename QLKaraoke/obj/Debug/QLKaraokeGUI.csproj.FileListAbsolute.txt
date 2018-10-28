@@ -1,0 +1,8 @@
+G:\ThaoNam5\DoAnKaraoke\doan\QLKaraoke\QLKaraoke\bin\Debug\QLKaraoke.exe.config
+G:\ThaoNam5\DoAnKaraoke\doan\QLKaraoke\QLKaraoke\obj\Debug\QLKaraokeGUI.csprojResolveAssemblyReference.cache
+G:\ThaoNam5\DoAnKaraoke\doan\QLKaraoke\QLKaraoke\obj\Debug\QLKaraoke.FrmBaoCao.resources
+G:\ThaoNam5\DoAnKaraoke\doan\QLKaraoke\QLKaraoke\obj\Debug\QLKaraoke.FrmChonBaoCao.resources
+G:\ThaoNam5\DoAnKaraoke\doan\QLKaraoke\QLKaraoke\obj\Debug\QLKaraoke.Properties.Resources.resources
+G:\ThaoNam5\DoAnKaraoke\doan\QLKaraoke\QLKaraoke\obj\Debug\QLKaraokeGUI.csproj.GenerateResource.Cache
+G:\ThaoNam5\DoAnKaraoke\doan\QLKaraoke\QLKaraoke\obj\Debug\RdlCompile.cache
+G:\ThaoNam5\DoAnKaraoke\doan\QLKaraoke\QLKaraoke\obj\Debug\RdlCompile.compiled

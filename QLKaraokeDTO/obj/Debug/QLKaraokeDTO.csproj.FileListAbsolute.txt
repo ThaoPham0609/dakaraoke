@@ -1,0 +1,5 @@
+G:\ThaoNam5\DoAnKaraoke\doan\QLKaraoke\QLKaraokeDTO\bin\Debug\QLKaraokeDTO.dll
+G:\ThaoNam5\DoAnKaraoke\doan\QLKaraoke\QLKaraokeDTO\bin\Debug\QLKaraokeDTO.pdb
+G:\ThaoNam5\DoAnKaraoke\doan\QLKaraoke\QLKaraokeDTO\obj\Debug\QLKaraokeDTO.csprojResolveAssemblyReference.cache
+G:\ThaoNam5\DoAnKaraoke\doan\QLKaraoke\QLKaraokeDTO\obj\Debug\QLKaraokeDTO.dll
+G:\ThaoNam5\DoAnKaraoke\doan\QLKaraoke\QLKaraokeDTO\obj\Debug\QLKaraokeDTO.pdb
