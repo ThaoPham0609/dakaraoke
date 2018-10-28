@@ -3,32 +3,30 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using QLKaraokeDTO;
 using System.Data;
 using System.Data.SqlClient;
+using QLKaraokeDTO;
 
 namespace QLKaraokeDAO
 {
-    public class PhongDAO
+    public class LoaiPhongDAO
     {
         string chuoiketnoi = @"Data Source =DESKTOP-20TAQ02\SQLEXPRESS;Initial Catalog = csdlDAKARAOKE;Integrated Sucurity = True;";
-        public List<PhongDTO> dsPhong()
+        public List<LoaiPhongDTO> dsLoaiPhong()
         {
 
-            List<PhongDTO> ds = new List<PhongDTO>();
+            List<LoaiPhongDTO> ds = new List<LoaiPhongDTO>();
             SqlConnection conn = DataProvider.TaoKetNoi();
 
-            SqlCommand com = new SqlCommand("select * from PHONG where TinhTrang=1", conn);
+            SqlCommand com = new SqlCommand("select * from LOAIPHONG where TinhTrang=1", conn);
             SqlDataReader sdr = com.ExecuteReader();
             while (sdr.Read())
             {
-                PhongDTO a = new PhongDTO()
+                LoaiPhongDTO a = new LoaiPhongDTO()
                 {
-                    MAPHONG = sdr.GetInt32(0),
-                    TENPHONG = sdr.GetString(1),
-                    LOAIPHONG = sdr.GetInt32(2),
-                    TINHTRANG = sdr.GetInt32(3),
-                    GIAPHONG = sdr.GetString(4)
+                    MALOAIPHONG = sdr.GetInt32(0),
+                    TENLOAIPHONG = sdr.GetString(1),
+                    TINHTRANG = sdr.GetInt32(2),
                 };
                 ds.Add(a);
             }

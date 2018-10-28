@@ -8,5 +8,13 @@ namespace QLKaraokeDTO
 {
     public class NhanVienDTO
     {
+        public string MANV { get; set; }
+        public string HONV { get; set; }
+        public string TENV { get; set; }
+        public DateTime NAMSINH { get; set; }
+        public int LOAINV { get; set; }
+        public string EMAIL { get; set; }
+        public string DIACHI { get; set; }
+        public int TINHTRANG { get; set; }
     }
 }
