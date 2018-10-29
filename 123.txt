@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-123
-=======
-123
->>>>>>> tien
-chinh sua code
