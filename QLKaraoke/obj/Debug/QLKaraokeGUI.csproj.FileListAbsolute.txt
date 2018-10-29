@@ -6,3 +6,4 @@ G:\ThaoNam5\DoAnKaraoke\doan\QLKaraoke\QLKaraoke\obj\Debug\QLKaraoke.Properties.
 G:\ThaoNam5\DoAnKaraoke\doan\QLKaraoke\QLKaraoke\obj\Debug\QLKaraokeGUI.csproj.GenerateResource.Cache
 G:\ThaoNam5\DoAnKaraoke\doan\QLKaraoke\QLKaraoke\obj\Debug\RdlCompile.cache
 G:\ThaoNam5\DoAnKaraoke\doan\QLKaraoke\QLKaraoke\obj\Debug\RdlCompile.compiled
+E:\da\dakaraoke\QLKaraoke\bin\Debug\QLKaraoke.exe.config
